@@ -29,16 +29,21 @@ void insert_sort(int *list, int num, int *count){
         j=i;
         temp = list[i];
         count[1]++;
-
-        for(;j>0&&list[j-1]>temp;j--){
+        while(1){
             count[0]++;
-            list[j] = list[j-1];
-            count[1]++;
+            if(j>0){
+                count[0]++;
+                if(list[j-1]>temp){
+                    list[j] = list[j-1];
+                    count[1]++;
+                    j--;
+                }
+                else break;
+            }
+            else break;
         }
-        if(j!=i){
-            list[j] = temp;
-            count[1]++;
-        }
+        list[j] = temp;
+        count[1]++;
     }
 }
 
