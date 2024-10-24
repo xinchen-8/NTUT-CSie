@@ -14,6 +14,6 @@
 
 ## Other Outside Link
 
-### [Programming Note - Heptabase](https://app.heptabase.com/w/b49111b8e3b556e3e158d6ddf9c6a97d5b1e755ec50fba968cdb29341d87791f) <span style="color: #D56565"></span>
+### [Programming Note - Heptabase](https://app.heptabase.com/w/c31a45c995764594990835f2fd789a115939b94b46bd6205d0618b240da24e6a) <span style="color: #D56565"></span>
 
-### [Artificial Intelligence Note - Heptabase](https://app.heptabase.com/w/c31a45c995764594990835f2fd789a115939b94b46bd6205d0618b240da24e6a) <span style="color: #D56565"></span>
+### [Artificial Intelligence Note - Heptabase](https://app.heptabase.com/w/b49111b8e3b556e3e158d6ddf9c6a97d5b1e755ec50fba968cdb29341d87791f) <span style="color: #D56565"></span>
